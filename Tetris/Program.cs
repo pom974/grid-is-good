@@ -9,6 +9,10 @@ namespace Tetris // Note: actual namespace depends on the project name.
     {
         static void Main(string[] args)
         {
+            int gitCommitTest = 0;
+
+            gitCommitTest++;
+
             Game game = new Game();
 
             game.Run();
