@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/tetris-csharp-template2/Tetris/bin
+/tetris-csharp-template2/Tetris/obj

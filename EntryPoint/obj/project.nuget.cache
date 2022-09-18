@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AbtR8FEr/9Kxv62GyPcagIQseK5Wg2TRGESYTVUaii+Awk0tdPU7n3wVObjBd1ms/V0FrtWH5n0zv6QV5CashA==",
+  "dgSpecHash": "/VdY/fhIBVJNzDcdXtgOhQp//CDEPN2V9JB4P23tfTCladClooZor8yMrkOCgGhLICJEJQSqWeGgfwc8sEcv8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\pierr\\source\\repos\\Tetris\\EntryPoint\\EntryPoint.csproj",
+  "projectFilePath": "C:\\Users\\pierr\\source\\repos\\tetris-csharp-template2\\EntryPoint\\EntryPoint.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
